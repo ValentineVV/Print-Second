@@ -1,0 +1,22 @@
+{
+  "name": "Print_Second",
+  "version": "0.1.0",
+  "summary": "A short description of Print_Second.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ValentineVV/Print_Second",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ValentineVV": "valiantsin_vasiliavitski@epam.com"
+  },
+  "source": {
+    "git": "https://github.com/ValentineVV/Print_Second.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Print_Second/Classes/**/*"
+}

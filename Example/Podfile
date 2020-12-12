@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Print_Second_Tests' do
+  pod 'Print_Second', :path => '../'
+  
+  
+end
