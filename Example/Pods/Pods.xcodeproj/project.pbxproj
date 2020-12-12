@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0AAC03A72584F41F00876B7A /* PrintHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC03A62584F41F00876B7A /* PrintHelper.swift */; };
+		0AAC03AD2584F4B200876B7A /* PrintHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAC03AC2584F4B200876B7A /* PrintHelper.swift */; };
 		257CB1B43A86BD3FE0217EF090FB040C /* Pods-Print_Second_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B47BFA7AD4E01AC769DF379D7F808D58 /* Pods-Print_Second_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3A59826748165D64C4F21989A810578C /* Pods-Print_Second_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 75BEB74A58D5CCB1FDEDA50712B6105E /* Pods-Print_Second_Tests-dummy.m */; };
 		C5396F7129BF9E1291D3627B465F8DDF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
@@ -28,7 +28,7 @@
 
 /* Begin PBXFileReference section */
 		046F5524989F9ECB6C7E7C978261C85E /* Print_Second.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Print_Second.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		0AAC03A62584F41F00876B7A /* PrintHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintHelper.swift; sourceTree = "<group>"; };
+		0AAC03AC2584F4B200876B7A /* PrintHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PrintHelper.swift; path = Print_Second/Classes/PrintHelper.swift; sourceTree = "<group>"; };
 		0C95E7A63261F84D358CC93ED0D5D753 /* Pods_Print_Second_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Print_Second_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		161EFC74487DF16126386DBF78256350 /* Pods-Print_Second_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Print_Second_Tests-Info.plist"; sourceTree = "<group>"; };
 		4564CF8B5F22DE5CEEDBFDD52424A78D /* Print_Second.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Print_Second.release.xcconfig; sourceTree = "<group>"; };
@@ -93,7 +93,7 @@
 		1CBEA8937A8B52DEF9CE5957EDE90C86 /* Print_Second */ = {
 			isa = PBXGroup;
 			children = (
-				0AAC03A62584F41F00876B7A /* PrintHelper.swift */,
+				0AAC03AC2584F4B200876B7A /* PrintHelper.swift */,
 				83AC2B494681C9B212DF0441A6715D4F /* Pod */,
 				497999507DCF1284F7DE5BC5571F5731 /* Support Files */,
 			);
@@ -288,7 +288,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CF3719049A3BDFE73C88979A3C2BF56D /* Print_Second-dummy.m in Sources */,
-				0AAC03A72584F41F00876B7A /* PrintHelper.swift in Sources */,
+				0AAC03AD2584F4B200876B7A /* PrintHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
