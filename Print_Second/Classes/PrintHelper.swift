@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct PrintHelper {
+public struct PrintHelper {
     static func printSomeText(_ text: String = "Second") {
         print(text)
     }
