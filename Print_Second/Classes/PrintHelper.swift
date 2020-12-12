@@ -7,8 +7,8 @@
 
 import Foundation
 
-public struct PrintHelper {
-    public static func printSomeText(_ text: String = "Second") {
+public struct PrintSecond {
+    public static func printSecond(_ text: String = "Second") {
         print(text)
     }
 }
